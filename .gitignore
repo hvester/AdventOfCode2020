@@ -1,0 +1,8 @@
+bin/
+obj/
+.ionide
+.paket
+.fake
+.ionide
+
+cookie.txt
