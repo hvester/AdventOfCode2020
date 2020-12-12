@@ -1,9 +1,7 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
-
   <ItemGroup>
     <Compile Include="Day1.fsx" />
     <Compile Include="Day2.fsx" />
@@ -15,6 +13,6 @@
     <Compile Include="Day8.fsx" />
     <Compile Include="Day9.fsx" />
     <Compile Include="Day10.fsx" />
+    <Compile Include="Day11.fsx" />
   </ItemGroup>
-
 </Project>
